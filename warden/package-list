@@ -1,0 +1,6 @@
+com.boston.warden.database.mapper
+com.boston.warden.database.model
+com.boston.warden.db
+com.boston.warden.guice
+com.boston.warden.model
+com.boston.warden.resource
